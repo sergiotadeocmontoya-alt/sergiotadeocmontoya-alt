@@ -10,6 +10,36 @@ My current public repositories mainly document this learning path through projec
 
 Beyond software engineering, I'm preparing for a long-term path in **scientific and technological research**, with the goal of pursuing **master's and PhD studies** and applying software, mathematics, and artificial intelligence to research-oriented problems.
 
+---
+
+## 💻 Professional Stack
+
+<p>
+  <img src="https://skillicons.dev/icons?i=php,laravel,java,js,mysql,postgres" />
+</p>
+
+**Backend Development · Web Applications · REST APIs · Databases · Software Architecture**
+
+---
+
+## 🤖 AI & Data
+
+<p>
+  <img src="https://skillicons.dev/icons?i=python" />
+</p>
+
+`Python` `Pandas` `NumPy` `Scikit-learn` `Machine Learning` `Data Analysis`
+
+---
+
+## ☁️ Tools & Cloud
+
+<p>
+  <img src="https://skillicons.dev/icons?i=aws,docker,git,linux" />
+</p>
+
+---
+
 ## 🎓 Education
 
 * **B.Eng. in Information and Communication Technologies**
@@ -18,7 +48,9 @@ Beyond software engineering, I'm preparing for a long-term path in **scientific 
 
 My academic path complements my professional background in software development and supports my transition toward **Artificial Intelligence, Machine Learning, Scientific Computing, and research**.
 
-## 🔭 Current focus
+---
+
+## 🔭 Current Focus
 
 * Python
 * Artificial Intelligence
@@ -28,22 +60,14 @@ My academic path complements my professional background in software development 
 * Scientific Computing
 * Research-oriented Software Development
 
-## 💻 Professional background
+---
 
-* PHP
-* Java
-* JavaScript
-* Backend Development
-* Web Applications
-* REST APIs
-* SQL & Databases
-* Software Architecture
-
-## 🧠 Currently learning
+## 🧠 Currently Learning
 
 I'm currently strengthening my knowledge in:
 
 `Python` · `Pandas` · `Machine Learning` · `AI` · `Mathematics` · `Data Science`
 
 My goal is to combine my experience in **software engineering** with **mathematics, artificial intelligence, and scientific computing** to progressively move into more advanced technological and research projects.
+
 
